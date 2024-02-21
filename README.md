@@ -1,13 +1,5 @@
-# TD-Prefab
-This project can be used as a boilerplate to base future projects off of.
+# TD_Streamer
 
 # Description
-Tell us something about this project.
-
-# Version
-2022.28040
-
-# Notes
-Never have anything config, log or similiar related inside the repository.
-Do not push to this repository with any kind of project related stuff.
-Us this only as a boilerplate.
+A Touchdesigner Application to run simple Streaming-Setups. Works like the StudioMode in OBS, except is actually shows you the multviewer correctly.
+Personal Project, maybe never a documentation available :)
