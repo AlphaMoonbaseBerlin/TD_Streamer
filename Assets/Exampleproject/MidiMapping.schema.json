@@ -20,8 +20,8 @@
      },
      "Args": {
       "description": "",
-      "type": "array",
-      "items": {
+      "type": "object",
+      "additionalProperties": {
        "description": "",
        "type": [
         "string",

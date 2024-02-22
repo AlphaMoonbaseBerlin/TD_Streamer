@@ -2,51 +2,51 @@
     "Channels": {
         "2.38": {
             "Command": "Select",
-            "Args": [
-                "1"
-            ]
+            "Args": {
+                "index": 1
+            }
         },
         "2.39": {
             "Command": "Select",
-            "Args": [
-                "2"
-            ]
+            "Args": {
+                "index": 2
+            }
         },
         "2.47": {
             "Command": "Select",
-            "Args": [
-                "3"
-            ]
+            "Args": {
+                "index": 3
+            }
         },
         "2.45": {
             "Command": "Select",
-            "Args": [
-                "4"
-            ]
+            "Args": {
+                "index": 4
+            }
         },
         "2.36": {
             "Command": "Select",
-            "Args": [
-                "0"
-            ]
+            "Args": {
+                "index": 0
+            }
         },
         "2.37": {
             "Command": "Take",
-            "Args": [
-                "0"
-            ]
+            "Args": {
+                "time": 0
+            }
         },
         "2.43": {
             "Command": "Take",
-            "Args": [
-                "1"
-            ]
+            "Args": {
+                "time": 1
+            }
         },
         "2.40": {
             "Command": "Take",
-            "Args": [
-                "5"
-            ]
+            "Args": {
+                "time": 2
+            }
         }
     },
     "$schema": "./MidiMapping.schema.json"
